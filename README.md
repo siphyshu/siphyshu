@@ -4,7 +4,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/main/badges/last-major-release.svg">
   <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/main/badges/status-barely managing-informational.svg">
-  <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/main/badges/vulnerabilities-roaches-red.svg">
+<!--   <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/main/badges/vulnerabilities-roaches-red.svg"> -->
   <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/main/badges/code quality-A for effort-success.svg">
   <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/main/badges/remarks-pls hire-lightgrey.svg">
 </p>
