@@ -1,13 +1,13 @@
 <div align='center'>
-<img align='right' src='https://thumbs.gfycat.com/ScratchyAlertBergerpicard-max-1mb.gif' width='200'>
+  <img align='right' src='https://thumbs.gfycat.com/ScratchyAlertBergerpicard-max-1mb.gif' width='200'>
 
-<p>
-  <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/main/badges/last-major-release.svg">
-  <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/main/badges/status-barely managing-informational.svg">
-<!--   <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/main/badges/vulnerabilities-roaches-red.svg"> -->
-  <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/main/badges/code quality-A for effort-success.svg">
-  <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/main/badges/remarks-pls hire-lightgrey.svg">
-</p>
+  <p>
+    <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/main/badges/last-major-release.svg">
+    <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/main/badges/status-barely managing-informational.svg">
+    <!--   <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/main/badges/vulnerabilities-roaches-red.svg"> -->
+    <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/main/badges/code quality-A for effort-success.svg">
+    <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/main/badges/remarks-pls hire-lightgrey.svg">
+  </p>
   
 ---
   
@@ -25,16 +25,25 @@ while True:
 <h1></h1>
 
 <div>
-  <a href="https://siphyshu.github.io/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/52672162/145477139-a6965231-149c-496d-8629-b73a7a20a5a8.png' width=450></a>
-
+  <a href="https://siphyshu.github.io/">
+    <img align='right' src='https://user-images.githubusercontent.com/52672162/145540603-bfde337a-fbaf-4410-89c3-e997bbf8d48b.png' width=450>
+  </a>
+  
   ### 🌴 Hey there! I am Jaiyank aka Siphyshu
   - 💻 Just obsessed with everything tech
   - ✨ Fun Fact: It took me 3hrs+ to make this
-  - 📚 I'm an undergrad studying CSE & Cybersecurity
+  - 📚 An undergrad studying CSE & Cybersecurity
   - 👀 Currently exploring the Web Hacking domain
   - 🍭 Another Fun Fact: I LOVE putting easter eggs
+  - 👔 I'm working on making a discord bot these days
+  - 🌼 Connect with me - https://linktr.ee/siphyshu
   
-  > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+  > _"Currently living my life at a speed of 244 wtf/s"_ - **Neel**
+  
+<!--   
+  <details>
+    <summary>🌼 Reach out & Connect with me!</summary>
+  </details> -->
   
 </div>
 
