@@ -30,15 +30,13 @@ while True:
   </a>
   
   ### 🌴 Hey there! I am Jaiyank aka Siphyshu
-  - 💻 Just obsessed with everything tech
-  - ✨ Fun Fact: It took me 3hrs+ to make this
-  - 📚 An undergrad studying CSE & Cybersecurity
-  - 👀 Currently exploring the Web Hacking domain
-  - 🍭 Another Fun Fact: I LOVE putting easter eggs
-  - 👔 I'm working on making a discord bot these days
-  - 🌼 Connect with me - https://linktr.ee/siphyshu
+  - 📚 CompSci and CyberSec student
+  - 🚩 I play CTFs with my team - T.U.S.K
+  - 🍭 Fun fact: I like easter eggs (find one here!)
+  - ✅ I'm working to finish projects these days
+  - 🔗 All socials - https://linktr.ee/siphyshu
   
-  > _"Currently living my life at a speed of 244 wtf/s"_ - **Neel**
+  > _"Currently living my life at a speed of 244 ***/s"_ - **Neel**
   
 <!--   
   <details>
